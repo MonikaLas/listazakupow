@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  section: MyString
+  name: MyString
+  unit: MyString
+  quantity: 1.5
+
+two:
+  section: MyString
+  name: MyString
+  unit: MyString
+  quantity: 1.5
